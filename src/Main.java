@@ -163,6 +163,9 @@ public class Main {
         } catch (IOException e) {
             System.out.println("Error writing to file: " + e.getMessage());
         }
+        Scanner closing = new Scanner(System.in);
+        System.out.println("Press enter to close");
+        String close = scanner.nextLine();
     }
 
     private static void crackSeeds(long pillarSeed, long gateWay, StructureChecker desertTempleChecker, StructureChecker jungleTempleChecker, StructureChecker iglooChecker, StructureChecker swampHutChecker, StructureChecker outpostChecker, StructureChecker shipwreckChecker, boolean findStructureSeed, List<Long> structureSeeds) {
