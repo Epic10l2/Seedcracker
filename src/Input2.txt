@@ -1,0 +1,30 @@
+17761
+9
+desert 171 -43
+desert -256 -238
+desert -221 -250
+desert -248 -287
+desert  495 521
+swamp -11 3
+swamp -18 -340
+jungle 1365 1265
+desert 516 501
+desert 6383 6150
+desert 1295 1174
+desert 1361 1161
+desert 1352 1185
+igloo -48 -22
+igloo -52 -44
+igloo -91 -55
+igloo -110 -60
+outpost -154 -300
+outpost 533 621
+outpost -656 -669
+outpost -768 -854
+outpost -683 658
+ship 62418 62203
+ship 62408 62213
+ship 62442 62155
+ship 62390 62057
+true
+true
