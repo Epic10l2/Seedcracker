@@ -1,5 +1,5 @@
 # Seedcracker
-Cracks half/structureseeds from structure/pillarseeds/gateways.
+Cracks half/structureseeds from structures/pillarseeds/gateways.
 
 How to use:
 Use the Cracker GUI (see https://github.com/Epic10l2/Seedcracker-GUI )
