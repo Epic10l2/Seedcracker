@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicLong;
-public class Seedcracker {
+public class Structurecracker {
 
     private JComboBox<String> versionComboBox;
 
