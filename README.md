@@ -19,7 +19,8 @@ Village: 2 Liftable bits.
 Trialchamber: 2 Liftable bits.
 Trailruin: 2 Liftable bits.
 Mansion: 2+ Liftable bits.
-Slimechunk: 2 Liftable bits.
+Slimechunk: 1 Liftable bit.
+Gateway: 2 Liftable bits.
 ```
 
 Note, using too many structures of the same type or only Desert / Jungle Pyramids, Igloos, Swamphuts and Outposts can result in alot of "imposter" seeds, i recommend using non liftable structures aswell to reduce results, If you get too many results the programm might crash.
